@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 crowdstrike-falconpy = "*"
+jsonpath-ng = "*"
+pandas = "*"
 
 [dev-packages]
 
